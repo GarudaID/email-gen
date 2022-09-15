@@ -3,7 +3,8 @@
 
 <p align="center">
 <img src="https://github.com/GarudaID/email-gen/blob/main/pict.PNG", width="500", height="500">
-</p>
+</p><br>
+Install Module : pip install faker
 
 -----
 
@@ -12,6 +13,7 @@
 <br><br>
 <strong>+ Very fast execution (under 0.002ms!)</strong>
 <br>
+<a href="https://github.com/GarudaID/email-gen/releases/tag/Release">Go Click here for download</a>
 
 -----
 
